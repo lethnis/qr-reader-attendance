@@ -12,6 +12,10 @@
     <td><img src=data/message.jpg width=400></td>
     <td><img src=output/message.jpg width=400></td>
   </tr>
+  <tr>
+    <td><img src=https://github.com/lethnis/qr-reader-attendance/assets/88483002/97e3762d-bb28-47b5-a952-49f903417232 width=400></td>
+    <td><img src=https://github.com/lethnis/qr-reader-attendance/assets/88483002/4a89f5a1-6bd5-4011-b6d3-1609300f94c8 width=400></td>
+  </tr>
 </table>
 
 # Использование
